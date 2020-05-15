@@ -1,2 +1,4 @@
 config:
   info: "master branch, springcloud2020-config/config/config-dev.yml version=700"
+server:
+  port: 3344
